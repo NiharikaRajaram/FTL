@@ -1,5 +1,5 @@
-# FTL-Internship
-FullThrottleLabs Internship Assignment
+# FTL
+FTL
 
 
 1.  Django
